@@ -72,8 +72,8 @@ const nextISSTimesForMyLocation = function(callback) {
         }
         // console.log(ip)
         // console.log(coords)
-        //console.log(passingTime);
-        //console.log(date)
+        // console.log(passingTime);
+        // console.log(date)
         callback(null, passingTime);
         // const risetime = passingTime
         // console.log(risetime)
